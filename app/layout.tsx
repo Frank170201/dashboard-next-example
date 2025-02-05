@@ -10,7 +10,6 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${monserrat.className} antialiased`}>
         {children}   
-        
       </body>
     </html>
    
